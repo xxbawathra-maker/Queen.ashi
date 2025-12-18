@@ -1,28 +1,24 @@
-<!-- Centered image -->
 <p align="center">
   <img src="https://files.catbox.moe/8x81ut.jpg" alt="Queen Ashi MD Lite" width="300"/>
 </p>
 
-<!-- Typing effect -->
-<h1 align="center">
-  <span id="typing"></span>
-</h1>
+# 👑 Queen Ashi MD Lite
 
-<!-- Optional description -->
 <p align="center">
-  Welcome to <strong>Queen Ashi MD Lite</strong> project! 💖
+  <strong>Welcome to the Queen Ashi MD Lite project! 💖</strong>
 </p>
 
-<!-- Adding script for typing effect -->
-<script>
-  const text = "Queen Ashi MD Lite";
-  let index = 0;
-  function type() {
-    if(index < text.length){
-      document.getElementById("typing").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(type, 200); // Change speed here
-    }
-  }
-  type();
-</script>
+---
+
+## Features
+
+- 🔹 Stylish bot interface
+- 🔹 Fast performance
+- 🔹 Easy to use
+- 🔹 Open-source
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="typing effect" width="300"/>
+</p>
