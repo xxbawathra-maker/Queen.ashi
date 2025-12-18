@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/8x81ut.jpg" alt="Queen Ashi MD Lite" width="300"/>
 </p>
 
-# 👑 Queen Ashi MD Lite
+# Queen Ashi MD Lite
 
 <p align="center">
   <strong>Welcome to the Queen Ashi MD Lite project! 💖</strong>
